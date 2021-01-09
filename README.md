@@ -2,6 +2,6 @@
 
 FLOSS nerd, Japanese codewriting ninja.
 
-![my status](https://img.shields.io/badge/status-Available%20for%20hire-green?style=for-the-badge)
+![Metrics](https://github.com/JohnTitor/JohnTitor/blob/main/metrics.svg)
 
 Support my FLOSS work: https://github.com/sponsors/JohnTitor
