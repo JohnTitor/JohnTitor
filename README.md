@@ -1,9 +1,78 @@
-## Yuki Okushi (JohnTitor)
+# Yuki Okushi (JohnTitor) <img height="23px" width="23px" src="./illya.gif">
 
-FLOSS nerd, Japanese codewriting ninja.
+Yuki Okushi is a FLOSS nerd, Japanese codewriting ninja, Rustacean, etc.
 
-Support my FLOSS work: https://github.com/sponsors/JohnTitor
+## My work <img height="23px" width="23px" src="./doit.gif">
 
----
+<details><summary>@rust-lang</summary><div>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JohnTitor&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+### Teams
+
+- crates.io team
+  - developing backend of <https://crates.io>
+- community team
+  - helping l10n and events
+- lang-docs team
+  - lead of that team, maintaining [the nomicon](https://doc.rust-lang.org/nomicon/)
+- library-reviewers team
+  - reviewing libc-related things and helping some reviews on rust-lang/rust and others
+- diagnostics, triage, and prioritization WGs
+
+### Repos
+
+- [rust-lang/rust](https://github.com/rust-lang/rust)
+  - sending/reviewing PRs, triaging issues, and making rollups regularly
+- [rust-lang/libc](https://github.com/rust-lang/libc)
+  - maintaining that crate as a core maintainer
+- [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide)
+  - keeping the rustc-dev-guide up-to-date
+
+</div></details>
+
+<details><summary>Rust community</summary><div>
+
+### Actix
+
+- core team, current lead
+  - If you find me as a lead of Actix, please also check
+    [@robjtede](https://github.com/robjtede)'s work, they're one of the core as well
+    and doing great work, and more active than I currently :)
+
+### notify-rs
+
+- one of the active maintainers
+
+### Writing an OS in Rust (ja)
+
+- Helping Japanese translations of [Writing an OS in Rust](https://os.phil-opp.com/)
+  as a translator/reviewer
+
+### ...and so on and on!
+
+In addition to the contributions listed here,
+I've made various other contributions to the Rust community.
+
+</div></details>
+
+<details><summary>Outside of Rust</summary><div>
+
+- Node.js
+  - i18n WG, working on i18n related things
+  - Japanese proofreader of API-docs
+- GNOME
+  - GNOME foundation member
+  - Helping Japanese translations
+
+</div></details>
+
+## Donate <img height="23px" width="23px" src="./paimon.gif">
+
+You can support me via GitHub Sponsors: <https://github.com/sponsors/JohnTitor>
+
+<details><summary>Why do I need your help?</summary><div>
+
+Currently my life is _unstable_ as I cannot work as much as I'd like
+due to the mental condition/disorder, so your help is definitely helpful
+to continue my FLOSS journey.
+
+</div></details>
