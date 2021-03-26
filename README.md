@@ -1,8 +1,8 @@
-# Yuki Okushi (JohnTitor) <img height="23px" width="23px" src="./illya.gif">
+# Yuki Okushi (JohnTitor) <img height="27px" width="27px" src="https://raw.githubusercontent.com/JohnTitor/JohnTitor/main/illya.gif">
 
 Yuki Okushi is a FLOSS nerd, Japanese codewriting ninja, Rustacean, etc.
 
-## My work <img height="23px" width="23px" src="./doit.gif">
+## My work <img height="25px" width="25px" src="https://raw.githubusercontent.com/JohnTitor/JohnTitor/main/doit.gif">
 
 <details><summary>@rust-lang</summary><div>
 
@@ -65,7 +65,7 @@ I've made various other contributions to the Rust community.
 
 </div></details>
 
-## Donate <img height="23px" width="23px" src="./paimon.gif">
+## Donate <img height="23px" width="23px" src="https://raw.githubusercontent.com/JohnTitor/JohnTitor/main/paimon.gif">
 
 You can support me via GitHub Sponsors: <https://github.com/sponsors/JohnTitor>
 
