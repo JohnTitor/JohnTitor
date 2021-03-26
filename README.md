@@ -1,5 +1,7 @@
 # Yuki Okushi (JohnTitor) <img height="27px" width="27px" src="https://raw.githubusercontent.com/JohnTitor/JohnTitor/main/illya.gif">
 
+![Twitter Follow](https://img.shields.io/twitter/follow/fr4ternite?style=social) [![Keybase](https://img.shields.io/badge/keybase-justmonika-blue?style=flat-square)](https://keybase.io/justmonika) ![Discord](https://img.shields.io/badge/Discord-huyuumi%238864-blue?style=flat-square)
+
 Yuki Okushi is a FLOSS nerd, Japanese codewriting ninja, Rustacean, etc.
 
 ## My work <img height="25px" width="25px" src="https://raw.githubusercontent.com/JohnTitor/JohnTitor/main/doit.gif">
@@ -67,6 +69,8 @@ I've made various other contributions to the Rust community.
 
 ## Donate <img height="23px" width="23px" src="https://raw.githubusercontent.com/JohnTitor/JohnTitor/main/paimon.gif">
 
+Thanks you for all my sponsors!
+
 You can support me via GitHub Sponsors: <https://github.com/sponsors/JohnTitor>
 
 <details><summary>Why do I need your help?</summary><div>
@@ -74,5 +78,8 @@ You can support me via GitHub Sponsors: <https://github.com/sponsors/JohnTitor>
 Currently my life is _unstable_ as I cannot work as much as I'd like
 due to the mental condition/disorder, so your help is definitely helpful
 to continue my FLOSS journey.
+
+But the donation isn't the only way to support me.
+You can use/star the projects that I'm involved in, follow my GitHub account, and do various things related to my contributions. It will motivate me in my future contributions.
 
 </div></details>
