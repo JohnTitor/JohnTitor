@@ -1,6 +1,6 @@
 # Yuki Okushi (JohnTitor) <img height="27px" width="27px" src="https://raw.githubusercontent.com/JohnTitor/JohnTitor/main/illya.gif">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/fr4ternite?style=social)](https://twitter.com/fr4ternite) [![Keybase](https://img.shields.io/badge/keybase-justmonika-blue?style=flat-square)](https://keybase.io/justmonika) ![Discord](https://img.shields.io/badge/Discord-huyuumi%238864-blue?style=flat-square)
+[![Twitter Follow](https://img.shields.io/twitter/follow/fr4ternite?style=social)](https://twitter.com/fr4ternite) [![website](https://img.shields.io/badge/Website-www.neet.club-blue?style=flat-square)](https://www.neet.club)
 
 Yuki Okushi is a FLOSS nerd, Japanese codewriting ninja, Rustacean, etc.
 
