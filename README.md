@@ -67,6 +67,12 @@ I've made various other contributions to the Rust community.
 
 </div></details>
 
+## When there's no response from me for a while
+
+My notification is flooding and I often overlook your email, ping, review request, etc.
+When I don't respond for more than a week, feel free to ping me again or [open an issue here](https://github.com/JohnTitor/JohnTitor/issues),
+I'll prioritize it.
+
 ## Donate <img height="23px" width="23px" src="https://raw.githubusercontent.com/JohnTitor/JohnTitor/main/paimon.gif">
 
 Thanks you for all my sponsors!
