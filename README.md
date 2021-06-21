@@ -15,10 +15,11 @@ Yuki Okushi is a FLOSS nerd, Japanese codewriting ninja, Rustacean, etc.
 - community team
   - helping l10n and events
 - lang-docs team
-  - lead of that team, maintaining [the nomicon](https://doc.rust-lang.org/nomicon/)
-- library-reviewers team
-  - reviewing libc-related things and helping some reviews on rust-lang/rust and others
+  - lead of that team, maintaining [the nomicon](https://doc.rust-lang.org/nomicon/) and [the reference](https://github.com/rust-lang/reference)
+- library-contributors team
+  - reviewing/contributing to library-related things on rust-lang/rust and others
 - diagnostics, triage, and prioritization WGs
+  - improving diagnostics and triaging issues/PRsregressions
 
 ### Repos
 
@@ -75,7 +76,7 @@ I'll prioritize it.
 
 ## Donate <img height="23px" width="23px" src="https://raw.githubusercontent.com/JohnTitor/JohnTitor/main/paimon.gif">
 
-Thanks you for all my sponsors!
+Thank you for all my sponsors!
 
 You can support me via GitHub Sponsors: <https://github.com/sponsors/JohnTitor>
 
