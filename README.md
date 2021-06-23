@@ -18,7 +18,7 @@ Yuki Okushi is a FLOSS nerd, Japanese codewriting ninja, Rustacean, etc.
   - lead of that team, maintaining [the nomicon](https://doc.rust-lang.org/nomicon/) and [the reference](https://github.com/rust-lang/reference)
 - library-contributors team
   - reviewing/contributing to library-related things on rust-lang/rust and others
-- diagnostics, triage, and prioritization WGs
+- diagnostics, prioritization, rustc-dev-guide, triage WGs
   - improving diagnostics and triaging issues/PRsregressions
 
 ### Repos
