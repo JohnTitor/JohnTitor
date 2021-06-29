@@ -1,0 +1,27 @@
+name: Test
+
+on:
+  push:
+    branches:
+      - testing
+
+jobs:
+  test:
+    name: Test
+    runs-on: ubuntu-16.04
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - run: uname -r
+
+    - name: Set up Go
+      uses: actions/setup-go@v2
+      with:
+        go-version: 1.15.3
+
+    - name: Test code
+      run: go run .
+
+    - run: cat ./copied.md
