@@ -1,10 +1,10 @@
-# Yuki Okushi (JohnTitor) <img height="27px" width="27px" src="https://raw.githubusercontent.com/JohnTitor/JohnTitor/main/illya.gif">
+# Yuki Okushi (JohnTitor)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/fr4ternite?style=social)](https://twitter.com/fr4ternite) [![website](https://img.shields.io/badge/Website-www.2k36.org-blue?style=flat-square)](https://www.2k36.org)
 
 Yuki Okushi is a FLOSS nerd, Japanese codewriting ninja, Rustacean, etc.
 
-## My work <img height="25px" width="25px" src="https://raw.githubusercontent.com/JohnTitor/JohnTitor/main/doit.gif">
+## My work
 
 <details><summary>@rust-lang</summary><div>
 
@@ -69,7 +69,7 @@ In addition to the contributions listed here, I've made various other contributi
 My notification is flooding and I often overlook your email, ping, review request, etc.
 When I don't respond for more than a week, feel free to ping me again or [open an issue here](https://github.com/JohnTitor/JohnTitor/issues), I'll prioritize it.
 
-## Support/sponsor my FLOSS work <img height="23px" width="23px" src="https://raw.githubusercontent.com/JohnTitor/JohnTitor/main/paimon.gif">
+## Support/sponsor my FLOSS work
 
 Sponsoring helps my life much, thank you for all my sponsors!
 
