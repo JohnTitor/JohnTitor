@@ -2,6 +2,8 @@
 
 [![website](https://img.shields.io/badge/Website-www.2k36.org-blue?style=flat-square)](https://www.2k36.org)
 
+**Looking for a new job in Japan, feel free to send an email if interested.**
+
 Yuki Okushi is a FLOSS nerd, Japanese codewriting ninja, Rustacean, etc.
 
 ## My work
