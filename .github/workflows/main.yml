@@ -14,8 +14,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: JohnTitor
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, metadata
           config_timezone: Asia/Tokyo
           plugin_followup: true
           plugin_followup_sections: user
-          plugin_lines: true
