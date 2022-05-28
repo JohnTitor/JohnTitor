@@ -4,6 +4,8 @@
 
 Yuki Okushi is a FLOSS nerd, Japanese codewriting ninja, Rustacean, etc.
 
+![metrics](./github-metrics.svg)
+
 ## My work
 
 <details><summary>@rust-lang</summary><div>
@@ -61,6 +63,8 @@ In addition to the contributions listed here, I've made various other contributi
 - GNOME
   - GNOME foundation member
   - Helping Japanese translations
+- LLVM
+  - Committer
 
 </div></details>
 
@@ -71,9 +75,10 @@ When I don't respond for more than a week, feel free to ping me again or [open a
 
 ## Support/sponsor my FLOSS work
 
-Sponsoring helps my life much, thank you for all my sponsors!
+Due to some mental disorders, my life is somewhat fragile. Therefore sponsors help my life much while I feel bad.
+
+A huge thanks to all my sponsors!!
 
 You can support me via GitHub Sponsors: <https://github.com/sponsors/JohnTitor>
 
-There are some other ways to support me other than sponsoring.
-You could also use and give a star to the projects that I'm involved, follow my GitHub account, and do some other things related to my contributions. It will motivate me in my future contributions.
+Besides the sponsors, I'm also grateful to all those who help my contributions, e.g. reviewing my PRs, answering my questions, motivating me as a GitHub follower etc. <3
