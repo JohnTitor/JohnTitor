@@ -2,7 +2,7 @@ name: Metrics
 on:
   # Schedule daily updates
   schedule:
-    - cron: 0 9 * * * # 0000 JST
+    - cron: 0 15 * * * # 0000 JST
   workflow_dispatch:
 
 jobs:
