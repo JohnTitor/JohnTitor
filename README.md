@@ -59,12 +59,15 @@ In addition to the contributions listed here, I've made various other contributi
 
 - Node.js
   - i18n WG, working on i18n related things
-  - Japanese proofreader of API-docs
+    - Japanese proofreader of API-docs
+  - moderation team member
 - GNOME
   - GNOME foundation member
   - Helping Japanese translations
 - LLVM
   - Committer
+- Kubernetes
+  - member, mainly contributing to docs and krew
 
 </div></details>
 
