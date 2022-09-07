@@ -6,4 +6,4 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "pusher -> ${{ github.event.push.pusher.name }}"
+      - run: echo "actor -> ${{ github.actor }}"
