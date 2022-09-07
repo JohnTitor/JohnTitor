@@ -6,4 +6,6 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "pusher -> ${{ github.ebvent.push.pusher }}"
+      - run: echo "pusher -> $FOO"
+        env:
+          FOO: ${{ github.ebvent.push.pusher }}
