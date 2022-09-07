@@ -8,4 +8,4 @@ jobs:
     steps:
       - run: echo "pusher -> $FOO"
         env:
-          FOO: ${{ github.ebvent.push.pusher }}
+          FOO: ${{ github.event.push.pusher }}
