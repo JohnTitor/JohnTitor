@@ -1,0 +1,13 @@
+name: LAPRAS Card
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update-card:
+    name: LAPRAS Card
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: JohnTitor/lapras-card-readme@read-ght-from-context
+        with:
+          SHARE_ID: jtitor

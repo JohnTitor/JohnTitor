@@ -8,9 +8,13 @@ Yuki Okushi is a FLOSS nerd, Japanese codewriting ninja, Rustacean, etc.
 
 ## My work
 
+### Open Source
+
+**You can support me via GitHub Sponsors: <https://github.com/sponsors/JohnTitor>**
+
 <details><summary>@rust-lang</summary><div>
 
-### Teams/WGs
+#### Teams/WGs
 
 - community team
   - helping l10n and events
@@ -23,7 +27,7 @@ Yuki Okushi is a FLOSS nerd, Japanese codewriting ninja, Rustacean, etc.
 - diagnostics, prioritization, rustc-dev-guide, triage WGs
   - keeping [rustc-dev-guide](https://rustc-dev-guide.rust-lang.org) up-to-date, improving diagnostics, and triaging issues/PRs/regressions
 
-### Related repositories
+#### Related repositories
 
 - [rust-lang/rust](https://github.com/rust-lang/rust)
   - sending/reviewing PRs, triaging issues, and making rollups regularly
@@ -36,20 +40,20 @@ Yuki Okushi is a FLOSS nerd, Japanese codewriting ninja, Rustacean, etc.
 
 <details><summary>Rust community</summary><div>
 
-### Actix
+#### Actix
 
 - core team, current lead
   - If you find me as a lead of Actix, please also check [@robjtede](https://github.com/robjtede)'s work, they're one of the core as well and doing great work, and more active than I currently :)
 
-### notify-rs
+#### notify-rs
 
 - one of the active maintainers
 
-### Writing an OS in Rust (ja)
+#### Writing an OS in Rust (ja)
 
 - Helping Japanese translations of [Writing an OS in Rust](https://os.phil-opp.com/) as a translator/reviewer
 
-### ...and so on and on!
+#### ...and so on and on!
 
 In addition to the contributions listed here, I've made various other contributions to the Rust community.
 
@@ -71,17 +75,14 @@ In addition to the contributions listed here, I've made various other contributi
 
 </div></details>
 
+### Job Experience
+
+See my LAPRAS profile for details:
+
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
+
 ## When there's no response from me for a while
 
 My notification is flooding and I often overlook your email, ping, review request, etc.
 When I don't respond for more than a week, feel free to ping me again or [open an issue here](https://github.com/JohnTitor/JohnTitor/issues), I'll prioritize it.
-
-## Support/sponsor my FLOSS work
-
-Due to some mental disorders, my life is somewhat fragile. Therefore sponsors help my life much while I feel bad.
-
-A huge thanks to all my sponsors!!
-
-You can support me via GitHub Sponsors: <https://github.com/sponsors/JohnTitor>
-
-Besides the sponsors, I'm also grateful to all those who help my contributions, e.g. reviewing my PRs, answering my questions, motivating me as a GitHub follower etc. <3
