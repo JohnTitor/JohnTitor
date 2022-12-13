@@ -11,3 +11,8 @@ jobs:
       - uses: JohnTitor/lapras-card-readme@read-ght-from-context
         with:
           SHARE_ID: jtitor
+          ICON_FIRST: "#212121"
+          ICON_SECOND: "#818181"
+          BACKGROUND_FIRST: "#232323"
+          BACKGROUND_SECOND: "#6d6d6d"
+          LANG: "en"
