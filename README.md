@@ -80,8 +80,8 @@ In addition to the contributions listed here, I've made various other contributi
 See my LAPRAS profile for details:
 
 <!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/jtitor" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=4.19&b=3.48&i=3.02&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 12/13/2022, 9:41:05 PM UTC
+<a href="https://lapras.com/public/jtitor" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=4.19&b=3.48&i=3.02&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="400" ></a>  
+Last Updated on 12/13/2022, 9:45:53 PM UTC
 <!--END_SECTION:lapras-card-->
 
 ## When there's no response from me for a while
