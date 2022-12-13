@@ -10,6 +10,8 @@ Yuki Okushi is a FLOSS nerd, Japanese codewriting ninja, Rustacean, etc.
 
 ### Open Source
 
+**My open source work is motivated and sponsored by you!**
+
 **You can support me via GitHub Sponsors: <https://github.com/sponsors/JohnTitor>**
 
 <details><summary>@rust-lang</summary><div>
