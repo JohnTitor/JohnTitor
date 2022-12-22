@@ -8,7 +8,7 @@ jobs:
     name: LAPRAS Card
     runs-on: ubuntu-22.04
     steps:
-      - uses: kawamataryo/lapras-card-readme@v1.1.0
+      - uses: kawamataryo/lapras-card-readme@v1.2.1
         with:
           SHARE_ID: jtitor
           ICON_FIRST: "#212121"
