@@ -1,0 +1,32 @@
+name: Generate sponsor images
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update-sponsors:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16.x
+          cache: npm
+
+      - run: npm ci
+
+      - name: Update sponsors
+        run: npm run build
+        env:
+          SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORS_TOKEN }}
+          SPONSORKIT_GITHUB_LOGIN: JohnTitor
+
+      - name: Commit
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "chore: update sponsors.svg"
+          add: "sponsors.*"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
