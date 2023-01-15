@@ -1,6 +1,8 @@
 # Yuki Okushi (JohnTitor)
 
 [![website](https://img.shields.io/badge/Website-www.2k36.org-blue?style=flat-square)](https://www.2k36.org)
+<!--START_SECTION:rust-thanks-card-->
+<!--END_SECTION:rust-thanks-card-->
 
 Yuki Okushi is a FLOSS nerd, Japanese codewriting ninja, Rustacean, etc.
 <div>
