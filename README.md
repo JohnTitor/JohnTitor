@@ -2,7 +2,7 @@
 
 [![website](https://img.shields.io/badge/Website-www.2k36.org-blue?style=flat-square)](https://www.2k36.org)
 <!--START_SECTION:rust-thanks-card-->
-<img src=https://cardivo-woad.vercel.app/api?name=Rust%20Contribution%20Stats%0A&description=Contributions%F0%9F%93%9D:%201441%20Rank%F0%9F%8F%86:%2033&image=https://avatars.githubusercontent.com/u/25030997?v=4&backgroundColor=%23ecf0f1&disableAnimation=true>
+<img src="https://cardivo-woad.vercel.app/api?name=Rust%20Contribution%20Stats%0A&description=Contributions%F0%9F%93%9D:%201441%20Rank%F0%9F%8F%86:%2033&image=https://avatars.githubusercontent.com/u/25030997?v=4&backgroundColor=%23ecf0f1&disableAnimation=true">
 <!--END_SECTION:rust-thanks-card-->
 
 Yuki Okushi is a FLOSS nerd, Japanese codewriting ninja, Rustacean, etc.
