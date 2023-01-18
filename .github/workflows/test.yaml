@@ -6,8 +6,8 @@ on:
 concurrency: ${{ github.workflow }}
 
 jobs:
-  update-card:
-    name: Rust Thanks Card
+  test:
+    name: Test
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v3
