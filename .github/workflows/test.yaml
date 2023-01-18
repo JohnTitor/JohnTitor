@@ -10,6 +10,7 @@ jobs:
     name: Rust Thanks Card
     runs-on: ubuntu-22.04
     steps:
+      - uses: actions/checkout@v3
       - run: |
           sleep 60
           exit 0
