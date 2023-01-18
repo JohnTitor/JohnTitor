@@ -12,5 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - run: |
-          sleep 60
+          git pull
+          git show-ref
+          sleep 30
           exit 0
