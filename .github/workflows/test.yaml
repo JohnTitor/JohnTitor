@@ -10,11 +10,9 @@ jobs:
   test:
     name: Test job
     runs-on: ubuntu-22.04
+    env:
+      BAR: ${{ github.event.inputs.foo }}
     steps:
-      - uses: actions/checkout@v3
-      - run: |
-          if ${{ github.event.inputs.foo == '' }}; then
-            echo @${{ github.actor }}
-          else
-            echo ${{ github.event.inputs.foo }}
-          fi
+      - run: echo "BAR=${{ github.actor }}" >> $GITHUB_ENV
+        if: ${{ env.BAR }} == ''
+      - run: echo ${BAR}
