@@ -14,5 +14,5 @@ jobs:
       BAR: ${{ github.event.inputs.foo }}
     steps:
       - run: echo "BAR=${{ github.actor }}" >> $GITHUB_ENV
-        if: ${{ env.BAR }} == ''
+        if: ${{ env.BAR == '' }}
       - run: echo ${BAR}
