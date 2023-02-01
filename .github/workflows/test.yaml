@@ -2,6 +2,10 @@ name: test workflow
 
 on:
   workflow_dispatch:
+    inputs:
+      foo:
+        required: true
+        default: ${{ github.actor }}
 
 concurrency: ${{ github.workflow }}
 
@@ -11,8 +15,4 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v3
-      - run: |
-          git pull
-          git show-ref
-          sleep 30
-          exit 0
+      - run: echo "${{ github.event.inputs.foo }}"
