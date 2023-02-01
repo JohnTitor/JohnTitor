@@ -4,10 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       foo:
-        required: true
-        default: ${{ github.actor }}
-
-concurrency: ${{ github.workflow }}
+        required: false
 
 jobs:
   test:
@@ -15,4 +12,9 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v3
-      - run: echo "${{ github.event.inputs.foo }}"
+      - run: |
+        if ${{ github.inputs.foo != "" }}; then
+          echo ${{ github.inputs.foo }}
+        else
+          echo ${{ github.actor }}
+        fi
