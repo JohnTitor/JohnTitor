@@ -13,8 +13,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - run: |
-          if ${{ github.event.inputs.foo }}; then
-            echo ${{ github.event.inputs.foo }}
-          else
+          if ${{ github.event.inputs.foo == '' }}; then
             echo ${{ github.actor }}
+          else
+            echo ${{ github.event.inputs.foo }}
           fi
