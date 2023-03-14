@@ -1,6 +1,9 @@
 name: Rust Thanks Card
 
 on:
+  # Schedule monthly updates
+  schedule:
+    - cron: 0 0 1 * *
   workflow_dispatch:
 
 jobs:
