@@ -21,4 +21,4 @@ Check out [my GitHub Sponsors profile page](https://github.com/sponsors/JohnTito
 
 A huge thank you to all the sponsors!
 
-<img src="https://raw.githubusercontent.com/JohnTitor/JohnTitor/main/sponsors.svg" width="65%" height="65%">
+<img src="https://raw.githubusercontent.com/JohnTitor/JohnTitor/main/sponsors.svg" width="80%" height="80%">
