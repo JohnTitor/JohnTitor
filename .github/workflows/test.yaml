@@ -9,8 +9,5 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          ref: foo
-      - uses: actions/checkout@v3
-        with:
-          ref: main
-      - run: git diff foo..main --exit-code
+          fetch-depth: 0
+      - run: git diff foo..origin/main --exit-code
