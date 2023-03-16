@@ -8,4 +8,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        fetch-depth: 0
       - run: git diff foo..main --exit-code
