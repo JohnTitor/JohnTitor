@@ -12,5 +12,10 @@ jobs:
           ref: bar
           fetch-depth: 0
       - run: gh pr create -B "main" -t "test PR" -b ""
+        id: yay
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: echo "yay"
+        if: ${{ steps.yay.outputs.foo != '' }}
+      - run: echo "bad"
+        if: ${{ failure() }}
