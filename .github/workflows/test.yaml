@@ -12,3 +12,5 @@ jobs:
           ref: bar
           fetch-depth: 0
       - run: gh pr create -B "main" -t "test PR" -b ""
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
