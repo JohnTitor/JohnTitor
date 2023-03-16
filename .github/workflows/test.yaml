@@ -9,5 +9,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
+          ref: bar
           fetch-depth: 0
-      - run: git diff foo..origin/main --exit-code
+      - run: gh pr create -B "main" -t "test PR" -b ""
