@@ -22,7 +22,7 @@ Check out [my GitHub Sponsors profile page](https://github.com/sponsors/JohnTito
 
 ### My Sponsors
 
-A huge thank you to all the sponsors!
+A huge thank you to all the sponsors! I do OSSing in my spare time and sponsoring definitely helps my life.
 
 <details><summary>Sponsors image</summary>
 <p>
