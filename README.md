@@ -1,14 +1,21 @@
 # Yuki Okushi (JohnTitor)
 
-[![website](https://img.shields.io/badge/Website-www.2k36.org-blue?style=flat-square)](https://www.2k36.org)
+Yuki Okushi is a FLOSS nerd, Japanese codewriting ninja, Rustacean, etc.
 
+<div>
+<a href="https://www.2k36.org" target="_blank" rel="noopener noreferrer" width="50%">
+<img src="https://img.shields.io/badge/Website-www.2k36.org-blue?style=flat-square">
+</a>
+
+<a href="https://thanks.rust-lang.org/rust/all-time/" target="_blank" rel="noopener noreferrer" width="50%">
 <!--START_SECTION:rust-thanks-card-->
 <img src="https://img.shields.io/badge/Rust%20Contributions-1521%20contibutions,%2034th-orange?logo=rust">
 <!--END_SECTION:rust-thanks-card-->
+</a>
+</div>
 
-[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=ShirayukiChiyo&count=1&width=600)](https://www.last.fm/user/ShirayukiChiyo)
+[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=ShirayukiChiyo&count=1&width=500)](https://www.last.fm/user/ShirayukiChiyo)
 
-Yuki Okushi is a FLOSS nerd, Japanese codewriting ninja, Rustacean, etc.
 <div>
 <img src="https://raw.githubusercontent.com/JohnTitor/JohnTitor/main/github-metrics.svg" width="55%">
 <!--START_SECTION:lapras-card-->
