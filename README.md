@@ -38,3 +38,7 @@ A huge thank you to all the sponsors! I do OSSing in my spare time and sponsorin
 
 </p>
 </details>
+
+## Job Opportunities
+
+Interested in hiring me or checking my work experience more? Feel free to contact me via email or LinkedIn.
