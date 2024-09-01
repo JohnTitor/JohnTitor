@@ -9,7 +9,7 @@ Yuki Okushi is a FLOSS nerd, Japanese codewriting ninja, Rustacean, etc.
 
 <a href="https://thanks.rust-lang.org/rust/all-time/" target="_blank" rel="noopener noreferrer" width="50%">
 <!--START_SECTION:rust-thanks-card-->
-<img src="https://img.shields.io/badge/Rust%20Contributions-1555%20contibutions,%2041st-orange?logo=rust">
+<img src="https://img.shields.io/badge/Rust%20Contributions-1555%20contibutions,%2042nd-orange?logo=rust">
 <!--END_SECTION:rust-thanks-card-->
 </a>
 </div>
