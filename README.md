@@ -19,7 +19,7 @@ Yuki Okushi is a FLOSS nerd, Japanese codewriting ninja, Rustacean, etc.
 <div>
 <img src="https://raw.githubusercontent.com/JohnTitor/JohnTitor/main/github-metrics.svg" width="55%">
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/jtitor" target="_blank" rel="noopener noreferrer"><img alt="jtitor's scores on LAPRAS are as follows: Engineering: 3.92 out of 5.0, Business: 3.48 out of 5.0, Influence: 3.17 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.92&b=3.48&i=3.17&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="40%" ></a></p>
+<p ><a href="https://lapras.com/public/jtitor" target="_blank" rel="noopener noreferrer"><img alt="jtitor's scores on LAPRAS are as follows: Engineering: 3.95 out of 5.0, Business: 3.48 out of 5.0, Influence: 3.17 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.95&b=3.48&i=3.17&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="40%" ></a></p>
 <!--END_SECTION:lapras-card-->
 </div>
 
