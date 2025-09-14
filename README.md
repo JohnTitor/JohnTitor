@@ -9,8 +9,6 @@ Yuki Okushi is a FLOSS nerd, Japanese codewriting ninja, Rustacean, etc.
 </a>
 </div>
 
-[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=ShirayukiChiyo&count=1&width=500)](https://www.last.fm/user/ShirayukiChiyo)
-
 ## My Open Source Work
 
 Check out [my GitHub Sponsors profile page](https://github.com/sponsors/JohnTitor)!
