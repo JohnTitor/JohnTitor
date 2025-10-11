@@ -85,7 +85,7 @@ jobs:
               throw new Error('Could not find sponsor markers in README.md');
             }
 
-            const replacement = `${startMarker}\n${code}\n\n...[and ${totalCount - sponsors.length} more](https://www.2k36.org/thanks)\n      ${endMarker}`;
+            const replacement = `${startMarker}\n${code}\n\n...[and ${totalCount - sponsors.length} more](https://www.2k36.org/sponsors)\n      ${endMarker}`;
 
             const updatedReadme = readme.substring(0, startIndex) + replacement + readme.substring(endIndex + endMarker.length);
 
