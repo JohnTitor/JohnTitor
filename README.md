@@ -33,4 +33,6 @@ Every contribution, regardless of size, makes a real difference in sustaining th
 
 A huge thank you to all the sponsors 🙏
 
-<img src="https://raw.githubusercontent.com/JohnTitor/JohnTitor/main/sponsors.svg" width="80%" height="80%">
+<!-- replace-sponsors -->
+
+<!-- replace-sponsors -->

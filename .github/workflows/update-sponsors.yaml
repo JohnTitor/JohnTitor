@@ -1,0 +1,102 @@
+name: Update Sponsors
+
+on:
+  schedule:
+    - cron: '0 0 1 * *' # Run monthly on the 1st at midnight UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-sponsors:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update sponsors in README
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+
+            // Query GitHub GraphQL API for sponsors
+            const query = `query {
+              viewer {
+                login
+                sponsorshipsAsMaintainer(first: 100) {
+                  totalCount
+                  nodes {
+                    tier {
+                      monthlyPriceInDollars
+                    }
+                    privacyLevel
+                    sponsorEntity {
+                      ... on User {
+                        login
+                        avatarUrl
+                      }
+                      ... on Organization {
+                        login
+                        avatarUrl
+                      }
+                    }
+                  }
+                }
+              }
+            }`;
+
+            const result = await github.graphql(query);
+
+            const totalCount = result.viewer.sponsorshipsAsMaintainer.totalCount;
+            const sponsors = result.viewer.sponsorshipsAsMaintainer.nodes
+              .map((node) => {
+                return {
+                  monthlyPriceInDollars: node.tier.monthlyPriceInDollars,
+                  username: node.sponsorEntity.login,
+                  avatar: node.sponsorEntity.avatarUrl,
+                  private: node.privacyLevel === 'PRIVATE',
+                };
+              })
+              .filter((node) => {
+                return node.monthlyPriceInDollars >= 10 && !node.private;
+              })
+              .sort((a, b) => {
+                return a.monthlyPriceInDollars > b.monthlyPriceInDollars ? -1 : 1;
+              });
+
+            const code = sponsors
+              .map((sponsor) => {
+                return `<a title="${sponsor.username}" href="https://github.com/${sponsor.username}"><img src="${sponsor.avatar}" width="60" alt="profile picture of ${sponsor.username}"></a>`;
+              })
+              .join(' ');
+
+            // Read README
+            const readme = fs.readFileSync('README.md', 'utf8');
+
+            // Replace section
+            const startMarker = '<!-- replace-sponsors -->';
+            const endMarker = '<!-- replace-sponsors -->';
+            const startIndex = readme.indexOf(startMarker);
+            const endIndex = readme.indexOf(endMarker, startIndex + startMarker.length);
+
+            if (startIndex === -1 || endIndex === -1) {
+              throw new Error('Could not find sponsor markers in README.md');
+            }
+
+            const replacement = `${startMarker}\n${code}\n\n...[and ${totalCount - sponsors.length} more](https://www.2k36.org/thanks)\n      ${endMarker}`;
+
+            const updatedReadme = readme.substring(0, startIndex) + replacement + readme.substring(endIndex + endMarker.length);
+
+            // Write updated README
+            fs.writeFileSync('README.md', updatedReadme, 'utf-8');
+
+            console.log(`Updated sponsors section with ${sponsors.length} sponsors (${totalCount} total)`);
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git diff --staged --quiet || git commit -m "Update sponsors - [Skip GitHub Action]"
+          git push
