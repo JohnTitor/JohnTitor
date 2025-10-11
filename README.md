@@ -11,16 +11,26 @@ Yuki Okushi is a FLOSS nerd, Japanese codewriting ninja, Rustacean, etc.
 
 ## My Open Source Work
 
-Check out [my GitHub Sponsors profile page](https://github.com/sponsors/JohnTitor)!
+Check out [my GitHub Sponsors profile page](https://github.com/sponsors/JohnTitor) for details!
+
+### 💖 Why Your Sponsorship Matters
+
+The crates I maintain have been downloaded **over 1.7 billion times** and power countless applications worldwide. Despite this massive impact, all of my open source work is done **in my spare time, unpaid**.
+
+<img width="944" height="195" alt="image" src="https://github.com/user-attachments/assets/d2e3e592-77e6-4a41-a59b-14ffb4ba11fb" />
+
+Your sponsorship directly enables me to:
+- Dedicate more hours to maintenance and reviews
+- Respond faster to critical issues and security patches  
+- Develop new features and improvements
+- Keep the Rust ecosystem reliable and growing
+
+Every contribution, regardless of size, makes a real difference in sustaining this work.
+
+[**Become a sponsor →**](https://github.com/sponsors/JohnTitor)
 
 ### My Sponsors
 
-A huge thank you to all the sponsors! I do OSSing in my spare time and sponsoring definitely helps my life.
-
-<details><summary>Sponsors image</summary>
-<p>
+A huge thank you to all the sponsors 🙏
 
 <img src="https://raw.githubusercontent.com/JohnTitor/JohnTitor/main/sponsors.svg" width="80%" height="80%">
-
-</p>
-</details>
