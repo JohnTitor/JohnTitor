@@ -35,4 +35,6 @@ A huge thank you to all the sponsors 🙏
 
 <!-- replace-sponsors -->
 
-<!-- replace-sponsors -->
+
+...[and 0 more](https://www.2k36.org/thanks)
+      <!-- replace-sponsors -->
