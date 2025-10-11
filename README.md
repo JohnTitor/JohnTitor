@@ -36,5 +36,5 @@ A huge thank you to all the sponsors 🙏
 <!-- replace-sponsors -->
 <a title="freddi-kit" href="https://github.com/freddi-kit"><img src="https://avatars.githubusercontent.com/u/13707872?u=61d25888cfa13a78a2cd311bb5e2707e09ad895b&v=4" width="60" alt="profile picture of freddi-kit"></a> <a title="himanoa" href="https://github.com/himanoa"><img src="https://avatars.githubusercontent.com/u/18651963?u=cccfad5bfe75be90b9aebea45394c2d2fd371c46&v=4" width="60" alt="profile picture of himanoa"></a>
 
-...[and 9 more](https://www.2k36.org/thanks)
+...[and 9 more](https://www.2k36.org/sponsors)
       <!-- replace-sponsors -->
