@@ -15,9 +15,9 @@ Check out [my GitHub Sponsors profile page](https://github.com/sponsors/JohnTito
 
 ### 💖 Why Your Sponsorship Matters
 
-The crates I maintain have been downloaded **over 1.7 billion times** and power countless applications worldwide. Despite this massive impact, all of my open source work is done **in my spare time, unpaid**.
+The crates I maintain have been downloaded **over 2 billion times** and power countless applications worldwide. Despite this massive impact, all of my open source work is done **in my spare time, unpaid**.
 
-<img width="944" height="195" alt="image" src="https://github.com/user-attachments/assets/d2e3e592-77e6-4a41-a59b-14ffb4ba11fb" />
+<img width="912" height="105" alt="image" src="https://github.com/user-attachments/assets/145d1304-6163-4171-be32-d49af7d738b3" />
 
 Your sponsorship directly enables me to:
 - Dedicate more hours to maintenance and reviews
