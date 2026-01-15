@@ -11,6 +11,8 @@ Yuki Okushi is a FLOSS nerd, Japanese codewriting ninja, Rustacean, etc.
 
 ## My Open Source Work
 
+My latest activities are listed at https://activity.2k36.org.
+
 Check out [my GitHub Sponsors profile page](https://github.com/sponsors/JohnTitor) for details!
 
 ### 💖 Why Your Sponsorship Matters
