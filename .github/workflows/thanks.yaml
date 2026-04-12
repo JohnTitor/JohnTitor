@@ -16,7 +16,7 @@ jobs:
         uses: JohnTitor/rust-thanks-card@main
         with:
           name: "Yuki Okushi"
-          format: "svg"
+          format: "badge"
           output-path: "assets/rust-thanks-card.svg"
           avatar-url: "https://avatars.githubusercontent.com/u/25030997?v=4"
           theme: "rust"
