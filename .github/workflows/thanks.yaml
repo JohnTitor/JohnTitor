@@ -21,4 +21,4 @@ jobs:
           avatar-url: "https://avatars.githubusercontent.com/u/25030997?v=4"
           theme: "rust"
           write-readme: "true"
-          commit-changes: "true"
+          push-changes: "true"
