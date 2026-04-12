@@ -9,11 +9,11 @@ on:
 jobs:
   update-card:
     name: Rust Thanks Card
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
       - id: rust-thanks
-        uses: JohnTitor/rust-thanks-card@main
+        uses: JohnTitor/rust-thanks-card@8441caa72c4ab17f1e627a2baed66d8a8fcbe4c4 # v0.2.0
         with:
           name: "Yuki Okushi"
           format: "badge"
