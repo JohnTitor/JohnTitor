@@ -4,7 +4,9 @@ Yuki Okushi is a FLOSS nerd, Japanese codewriting ninja, Rustacean, etc.
 
 <a href="https://thanks.rust-lang.org/rust/all-time/" target="_blank" rel="noopener noreferrer" width="50%">
 <!--START_SECTION:rust-thanks-card-->
-![Rust Thanks card](./assets/rust-thanks-card.svg)
+
+<img src="./assets/rust-thanks-card.svg" alt="Rust Thanks card" />
+
 <!--END_SECTION:rust-thanks-card-->
 </a>
 </div>
