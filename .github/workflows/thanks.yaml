@@ -11,8 +11,13 @@ jobs:
     name: Rust Thanks Card
     runs-on: ubuntu-24.04
     steps:
-      - uses: JohnTitor/rust-thanks-card@370ace8ce85400c181f3ec01836de55220394a87 # v0.1.1
+      - id: rust-thanks
+        uses: JohnTitor/rust-thanks-card@main
         with:
-          name: 'Yuki Okushi'
-          image_url: 'https://avatars.githubusercontent.com/u/25030997?v=4'
-          type: 'badge'
+          name: "Yuki Okushi"
+          format: "svg"
+          output-path: "assets/rust-thanks-card.svg"
+          avatar-url: "https://avatars.githubusercontent.com/u/25030997?v=4"
+          theme: "rust"
+          write-readme: "true"
+          commit-changes: "true"
