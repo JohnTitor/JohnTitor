@@ -22,7 +22,7 @@ Check out [my GitHub Sponsors profile page](https://github.com/sponsors/JohnTito
 A huge thank you to all the sponsors 🙏
 
 <!-- replace-sponsors -->
-<a title="freddi-kit" href="https://github.com/freddi-kit"><img src="https://avatars.githubusercontent.com/u/13707872?u=61d25888cfa13a78a2cd311bb5e2707e09ad895b&v=4" width="60" alt="profile picture of freddi-kit"></a> <a title="himanoa" href="https://github.com/himanoa"><img src="https://avatars.githubusercontent.com/u/18651963?u=cccfad5bfe75be90b9aebea45394c2d2fd371c46&v=4" width="60" alt="profile picture of himanoa"></a>
+<a title="ecosyste-ms" href="https://github.com/ecosyste-ms"><img src="https://avatars.githubusercontent.com/u/98474690?v=4" width="60" alt="profile picture of ecosyste-ms"></a> <a title="freddi-kit" href="https://github.com/freddi-kit"><img src="https://avatars.githubusercontent.com/u/13707872?u=61d25888cfa13a78a2cd311bb5e2707e09ad895b&v=4" width="60" alt="profile picture of freddi-kit"></a> <a title="himanoa" href="https://github.com/himanoa"><img src="https://avatars.githubusercontent.com/u/18651963?u=cccfad5bfe75be90b9aebea45394c2d2fd371c46&v=4" width="60" alt="profile picture of himanoa"></a> <a title="ThibautMelen" href="https://github.com/ThibautMelen"><img src="https://avatars.githubusercontent.com/u/20891897?u=002890e74560a4623e150fe5edefdbe17d5767b0&v=4" width="60" alt="profile picture of ThibautMelen"></a>
 
 ...[and 9 more](https://www.2k36.org/sponsors)
       <!-- replace-sponsors -->
